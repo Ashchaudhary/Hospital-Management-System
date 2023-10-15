@@ -46,14 +46,14 @@ catch(Exception e){
 <input class="input-style" type="hidden" name="id" value="<%out.println(id);%>">
 
 <div class="center">
- <h3>Doctor Type</h3>
- <input class="input-style" type="text" name="name" placeholder="Enter Doctor Type" required>
+ <h3>Doctor Name</h3>
+ <input class="input-style" type="text" name="name" placeholder="Enter Doctor Name" required>
  <hr>
 </div>
 
 <div class="center">
-<h3>Doctor Name</h3>
-  <input class="input-style" type="text" name="category" placeholder="Enter Doctor Name" required>
+<h3>Doctor Category</h3>
+  <input class="input-style" type="text" name="category" placeholder="Enter Doctor Category " required>
 <hr>
 </div>
 
