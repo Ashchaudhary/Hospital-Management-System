@@ -10,26 +10,25 @@
 <body>
 <div style="color: white; text-align: center; font-size: 30px;">About <i class="fa fa-address-book"></i></div>
 <div style="background-color: white; padding:35px; font-size: 30px;">
-BTech Days
+HTech Days
 <br>
 Hey everyone!!
 <br>
-I make free programming tutorials for beginners.
-& PROJECT videos with source code.
-That include Java for beginners,c# (Dot net tutorial), JFrame,JDBC,Jsp,etc
+A hospital is a healthcare facility where patients receive medical treatment and care. 
+Hospitals are staffed with doctors, nurses, and other healthcare professionals who diagnose and treat a wide range of illnesses and injuries. 
+They also provide emergency services, surgeries, and specialized medical care for various conditions.
+ Hospitals may vary in size and services offered, from small community hospitals to large, specialized medical centers. 
+ They play a critical role in the healthcare system, serving as places of healing and medical research.
 <br>
-We make videos of :-
-DBMS
-COMPUTER NETWORKING 
-BPM
-OS, etc
-So kindly subscribe our channel.
+We make Prescription of :-
+ALl kind of illness.
+So kindly Visit our Hospital.
 <br>
-Contact us at :- btechdays.care@gmail.com
+Contact us at :- hostech2@gmail.com
 <br>
 or
 <br>
-contact us at instagram :- btechdays
+contact us at instagram :- Hos@gill
 </div>
 
 </body>
