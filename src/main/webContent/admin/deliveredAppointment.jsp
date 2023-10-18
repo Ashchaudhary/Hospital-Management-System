@@ -18,8 +18,8 @@
 <table id="customers">
           <tr>
           <th>Mobile Number</th>
-            <th scope="col">Teacher</th>
-            <th scope="col">Subject</th>
+            <th scope="col">Name</th>
+            <th scope="col">Category</th>
             <th scope="col"><i class=""></i> Sub Total</th>
             <th>Address</th>
             <th>City</th>

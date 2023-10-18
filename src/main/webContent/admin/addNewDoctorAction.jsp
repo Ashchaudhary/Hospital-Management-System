@@ -20,6 +20,6 @@ try{
 }
 catch(Exception e){
 	
-	response.sendRedirect("addNew .jsp?msg=wrong");
+	response.sendRedirect("addNewDoctor.jsp?msg=wrong");
 }
 %>
