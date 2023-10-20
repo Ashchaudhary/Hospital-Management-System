@@ -23,7 +23,7 @@ String msg=request.getParameter("msg");
 if("done".equals(msg))
 {
 %>
-<h3 class="alert">Doctor Successfully Updated!</h3>
+<h3 class="alert">Doctor Successfully Deleted!</h3>
 <%} %>
 <%
 if("wrong".equals(msg))
@@ -61,7 +61,7 @@ if("wrong".equals(msg))
             <td><%=rs.getString(4) %></td>
             <td><%=rs.getString(5) %> </td>
             <td><a href="editDoctor.jsp?id=<%=rs.getString(1) %>">Edit <i class='fas fa-pen-fancy'></i></a></td>
-             <td><a href="deleteDoctor.jsp?id=<%=rs.getString(1) %>">Delete<i class='fas fa-pen-fancy'></i></a></td>
+             <td><a href="deleteDoctor.jsp?id=<%=rs.getString(1)%>">Delete <i class='fas fa-trash'></i></a></td>
           </tr>
          <%
        }
